@@ -1,3 +1,8 @@
+{
+    "zenodo": {
+        "concept_doi": "3518486",
+        "version": "345646"
+    },
     "identifier": {
         "identifier": "https://doi.org/10.5281/zenodo.3518486",
 		"identifierSource": "DOI"
