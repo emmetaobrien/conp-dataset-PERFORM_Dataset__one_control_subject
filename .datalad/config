@@ -1,2 +1,4 @@
 [datalad "dataset"]
 	id = 46e52b3e-3689-11ea-a4e4-0242ac110005
+[datalad "log"]
+	timestamp = true
