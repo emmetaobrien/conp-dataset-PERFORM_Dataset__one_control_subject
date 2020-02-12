@@ -1,0 +1,72 @@
+{
+    "title": "PERFORM Dataset; one control subject",
+    "identifier": {
+        "identifier": "https://doi.org/10.5281/zenodo.3518486",
+        "identifierSource": "DOI"
+    },
+    "creators": [
+        {
+            "name": "PERFORM Centre Concordia University"
+        }
+    ],
+    "description": "Functional Magnetic Resonance Imaging (fMRI), electroencephalography (EEG), sleep and nutrition assessments were performed on one male control subject. This registered access dataset is currently accessible on request only.",
+    "types": [
+        {
+            "information": {
+                "value": "transcriptomics"
+            }
+        }
+    ],
+    "version": null,
+    "licenses": [
+        {
+            "name": "None"
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        },
+        {
+            "value": "control"
+        },
+        {
+            "value": "MRI"
+        },
+        {
+            "value": "EEG"
+        }
+    ],
+    "distributions": [
+        {
+            "formats": [
+                "zip"
+            ],
+            "size": 195581886,
+            "unit": {
+                "value": "B"
+            },
+            "access": {
+                "landingPage": "https://zenodo.org/record/3665455"
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://about.zenodo.org/static/img/logos/zenodo-gradient-round.svg"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "1"
+                }
+            ]
+        }
+    ]
+}
