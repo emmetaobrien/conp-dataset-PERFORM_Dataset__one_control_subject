@@ -1,7 +1,14 @@
 {
     "zenodo": {
         "concept_doi": "3518486",
-        "version": "37278"
+        "version": "3687278"
     },
+    "private_files": {
+        "archive_links": [
+            "https://zenodo.org/api/files/b09a9d80-9e0a-4ea7-8a42-69a31ebbc231/data.zip"
+        ],
+        "files": []
+    },
+    "restricted": true,
     "title": "PERFORM Dataset; one control subject"
 }
