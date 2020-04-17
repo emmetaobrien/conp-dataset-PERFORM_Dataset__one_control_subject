@@ -7,3 +7,4 @@ README.md annex.largefiles=nothing
 
 logo.png annex.largefiles=nothing
 unlock.py annex.largefiles=nothing
+config annex.largefiles=nothing
