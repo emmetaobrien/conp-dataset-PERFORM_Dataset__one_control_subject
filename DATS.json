@@ -69,7 +69,7 @@
                 "landingPage": "https://zenodo.org/record/3518486",
                 "authorizations": [
                     {
-                        "value": "restricted"
+                        "value": "registered"
                     }
                 ]
             },
@@ -101,6 +101,38 @@
             "values": [
                 {
                     "value": "CONP"
+                }
+            ]
+        },
+        {
+            "category": "origin_institution",
+            "values": [
+                {
+                    "value": "McGill University"
+                }
+            ]
+        },
+        {
+            "category": "origin_city",
+            "values": [
+                {
+                    "value": "Montreal"
+                }
+            ]
+        },
+        {
+            "category": "origin_province",
+            "values": [
+                {
+                    "value": "Quebec"
+                }
+            ]
+        },
+        {
+            "category": "origin_institution",
+            "values": [
+                {
+                    "value": "Canada"
                 }
             ]
         },
